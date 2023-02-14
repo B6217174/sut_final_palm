@@ -116,3 +116,9 @@ func TestSutId(t * testing.T) {
 }
 
 
+//go get -u gorm.io/gorm
+//go get github.com/asaskevich/govalidator
+//go get github.com/onsi/gomega
+//go mod init github.com/B6217174/testlabb
+//go test./...
+
